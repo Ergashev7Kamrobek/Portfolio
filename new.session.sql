@@ -1,0 +1,1 @@
+-- DROP TABLE auth_group,auth_permission,django_content_type, django_migrations,django_session
